@@ -1,0 +1,12 @@
+nama_lengkap= str(input('Fazrin Putri Hardianti:'))
+nama_panggilan= str(input('Fajrin:'))
+npm = int(input('312010351:'))
+tl = str(input('Bekasi:'))
+tgl = int(input('03:'))
+tlpn = int(input('08972000882:'))
+alamat = str(input('Villa Mutiara Cikarang 2 Blok G1 no 15:'))
+umur = 18
+
+print('Assalamualaikum')
+print('My Name is', Fazrin Putri Hardianti,',but you can call me', Fajrin,', My NPM is,'312010351,'.\nl was born in,'Bekasi,'and i am,'18,'years old.\nl am very glad if you want to invite my house in,' Villa Mutiara Cikarang 2 blok G1 no 15,'.so,dont forget to call me before with number,'08972000882,)
+print('Thank you.')
